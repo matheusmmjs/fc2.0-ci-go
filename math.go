@@ -19,7 +19,7 @@ func times(a int, b int) int {
 }
 
 func somaX(a int, b int) int {
-	return a + b + a
+	return a + b + a + a
 }
 
 func subX(a int, b int) int {
