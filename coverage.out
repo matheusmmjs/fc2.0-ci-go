@@ -1,0 +1,8 @@
+mode: set
+/app/math.go:5.13,7.2 1 0
+/app/math.go:9.29,11.2 1 1
+/app/math.go:13.28,15.2 1 0
+/app/math.go:17.30,19.2 1 0
+/app/math.go:21.30,23.2 1 0
+/app/math.go:25.29,27.2 1 0
+/app/math.go:29.31,31.2 1 0
